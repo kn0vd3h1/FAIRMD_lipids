@@ -3,3 +3,4 @@ myst-parser
 sphinx>=7.2.2
 sphinx-rtd-theme
 rdkit
+-e .
